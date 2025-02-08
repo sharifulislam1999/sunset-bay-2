@@ -1,0 +1,8 @@
+.contact {
+    background-image: linear-gradient(#00000080, #00000080), url("../../../assets//Images/foorte-img.jpg");
+    background-position: 0 0, 50%;
+    background-repeat: repeat, repeat-y;
+    background-size: auto, cover;
+    position: relative;
+    overflow: hidden;
+}
