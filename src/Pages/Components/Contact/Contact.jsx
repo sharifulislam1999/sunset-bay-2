@@ -51,13 +51,13 @@ const Contact = ({title,paragraph,cta,name,phone,email}) => {
                     <div>
                         <form action="#" className="w-full md:w-[70%] flex flex-col md:gap-3 gap-2 lg:gap-6" data-aos="zoom-in" onSubmit={sendEmail} autoComplete="off">
                             <div>
-                                <input onChange={handleChange} className="w-full outline-none py-2 border rounded text-white border-white px-2" type="text" placeholder={name} required/>
+                                <input name="name" onChange={handleChange} className="w-full outline-none py-2 border rounded text-white border-white px-2" type="text" placeholder={name} required/>
                             </div>
                             <div>
-                                <input onChange={handleChange} className="w-full py-2 border outline-none rounded text-white border-white px-2" type="phone" placeholder={phone} required/>
+                                <input name="phone" onChange={handleChange} className="w-full py-2 border outline-none rounded text-white border-white px-2" type="phone" placeholder={phone} required/>
                             </div>
                             <div>
-                                <input onChange={handleChange} className="w-full py-2 border outline-none rounded text-white border-white px-2" type="email" placeholder={email} required />
+                                <input name="email" onChange={handleChange} className="w-full py-2 border outline-none rounded text-white border-white px-2" type="email" placeholder={email} required />
                             </div>
                             <div>
                                 <input type="submit" className="bg-[#BE917C] text-white py-2 px-6 rounded text-[20px] transition  duration-300  cursor-pointer border border-[#BE917C] hover:bg-transparent hover:text-white " value={cta} />
