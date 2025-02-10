@@ -28,7 +28,7 @@ const Amenities = ({title,first,secend,third,four,five,six,seven,eight,nine,ten}
                       <img className="w-[50px]" src={img} alt="" />
                     </div>
                     <div>
-                      <h6 className="text-[14px] lg:text-[20px] text-[#BE917C]">{labels[index]}</h6>
+                      <h6 className="text-[14px] lg:text-[20px] text-center text-[#BE917C]">{labels[index]}</h6>
                     </div>
                   </div>
                 ))}
