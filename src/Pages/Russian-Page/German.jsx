@@ -24,7 +24,7 @@ const German = () => {
        <Venice title="SUNSET BAY 2" paragraph="Betreten Sie eine Welt des erlesenen Luxus, in der jedes Detail sorgfältig und perfekt ausgearbeitet ist. Küchen mit Miele-Ausstattung, Armaturen von Gessi und Oberflächen von Villeroy & Boch werten Ihr alltägliches Wohnerlebnis auf. Diese Residenzen sind mit offenem Grundriss gestaltet, in natürliches Licht getaucht und bieten luxuriöse Schlafzimmer, Badezimmer im Spa-Stil und großzügige Wohnräume für ultimativen Komfort."></Venice>   
     
        <Amenities title="Exklusive Annehmlichkeiten" first="Freiluftkino" secend="Wasser-Lounges" third="Private Whirlpools" four="Kinderspielplatz" five="Yoga Bereich im Freien" six="Private Terrassen" seven="Clubhaus & Fitnessstudio" eight="Grill- und Essbereiche" nine="Sunken lounges" ten="Badeinsel"></Amenities>
-       <Counters first="2 Minuten zur" firstText="Strand" secend="12 Minuten zur" secendText="Dubai International Airport" third="16 Minuten zur" thirdText="Stadtzentrum" four="16 Minuten zur" fourText=" Dubai Mall"></Counters>
+       <Counters first="2 Minuten zum" firstText="Strand" secend="12 Minuten zum" secendText="Dubai International Airport" third="16 Minuten zum" thirdText="Stadtzentrum" four="16 Minuten zur" fourText=" Dubai Mall"></Counters>
        <Map title="Standort von SUNSET BAY 2"></Map>
        <Contact title="Holen Sie sich fachkundige Beratung" paragraph="Geben Sie Ihre Daten ein und unsere Experten werden Sie mit individuellen Empfehlungen kontaktieren." cta="Anmelden" name="Name" phone="Telefon" email="Email"></Contact>
        <Footer title="Kontaktieren Sie uns jetzt für weitere Details"></Footer>    
